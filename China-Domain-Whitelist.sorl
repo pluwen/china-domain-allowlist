@@ -15,6 +15,36 @@
 *.tmall.com
 *.baidu.com
 *.pluwen.com
+*.163.com
+*.ele.me
+*.huaban.com
+*.aliyun.com
+*.cctv.com
+*.douban.*
+*.sina.com
+*.weibo.com
+*.sohu.com
+*.youku.com
+*.tmall.com
+*.hao123.com
+*.tudou.com
+*.chinaz.com
+*.alipay.com
+*.sogou.com
+*.cnzz.com
+*.58.com
+*.alibaba.com
+*.xunlei.com
+*.bing.com
+*.iqiyi.com
+*.csdn.net
+*.soku.com
+*.apple.com
+*.zhaopin.com
+*.etao.com
+*.suning.com
+*.xiaomi.com
+
 
 ; 阿里云 CDN
 *.kunlunea.com
