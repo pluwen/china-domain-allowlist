@@ -9,5 +9,62 @@
 *.umeng.com
 *.taobao.com
 *.taobaocdn.com
+*.babybus.com
 *.jd.com
+*.qq.com
 *.tmall.com
+*.baidu.com
+*.pluwen.com
+
+; 阿里云 CDN
+*.kunlunea.com
+*.kunlunso.com
+*.kunlunwe.com
+*.kunlunno.com
+*.kunlunaq.com
+*.kunlunpi.com
+*.kunlunra.com
+*.kunlungr.com
+*.kunlunhuf.com
+*.kunlunsl.com
+*.kunlunar.com
+*.kunlunta.com
+*.kunlungem.com
+*.kunluncan.com
+*.kunlunle.com
+*.kunlunvi.com
+*.kunlunli.com
+*.kunlunsc.com
+*.kunlunsa.com
+*.kunlunca.com
+*.alikunlun.net
+*.alikunlun.com
+
+; 腾讯 CDN
+*.qcloud.com
+*.myqcloud.com
+*.tcdn.qq.com
+*.cdntip.com
+
+; 百度云 CDN
+*.bdydns.net
+*.bcedns.net
+*.bcedns.com
+*.bcedns.cn
+*.bdydns.com
+*.baiduyundns.net
+*.bdydns.cn
+*.baiduyundns.com
+*.baiduyundns.cn
+
+; 百度云加速
+*.yunjiasu-cdn.net
+
+; 七牛
+*.qiniudn.com
+*.qbox.me
+*.clouddn.com
+*.qiniudns.com
+
+#又拍云
+*.aicdn.com
