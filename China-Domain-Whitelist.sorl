@@ -45,6 +45,8 @@
 *.suning.com
 *.xiaomi.com
 *.gov.cn
+*.sspai.com
+*.panduoduo.net
 
 ; 阿里云 CDN
 *.kunlunea.com
