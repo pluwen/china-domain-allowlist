@@ -5,7 +5,6 @@
 
 *.zhihu.com
 *.lanhuapp.com
-*.leancloud.cn
 *.umeng.com
 *.taobao.com
 *.taobaocdn.com
@@ -44,7 +43,6 @@
 *.etao.com
 *.suning.com
 *.xiaomi.com
-*.gov.cn
 *.sspai.com
 *.panduoduo.net
 *.miwifi.com
@@ -60,21 +58,14 @@
 *.gratisography.com
 *.pexels.com
 *.uisdc.com
-*.iconfont.cn
-*.zcool.com.cn
-*.ui.cn
 *.uedna.com
 *.58pic.com
 *.woshipm.com
 *.doyoudo.com
 *.iguoguo.net
-*.woofeng.cn
 *.qiuziti.com
-*.qimai.cn
-*.iqiyipic.cn
 *.infoq.com
 *.36kr.com
-*.dadababy.cn
 *.guokr.com
 *.cn
 
@@ -113,12 +104,9 @@
 *.bdydns.net
 *.bcedns.net
 *.bcedns.com
-*.bcedns.cn
 *.bdydns.com
 *.baiduyundns.net
-*.bdydns.cn
 *.baiduyundns.com
-*.baiduyundns.cn
 
 ; 百度云加速
 *.yunjiasu-cdn.net
