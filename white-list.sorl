@@ -72,6 +72,8 @@
 *.39.net
 *.minapp.com
 *.jianshu.com
+*.processon.com
+*.bilibili.com
 
 ; 阿里云 CDN
 *.kunlunea.com
