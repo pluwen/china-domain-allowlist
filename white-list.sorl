@@ -3,6 +3,8 @@
 ; Date: 2018/7/18
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+10.1.7.237
+
 *.zhihu.com
 *.lanhuapp.com
 *.umeng.com
@@ -77,6 +79,9 @@
 *.chongdiantou.com
 *.kf5.com
 *.cowtransfer.com
+*.ddrk.me
+*.macrr.com
+*.damengxiang.me
 
 ; 阿里云 CDN
 *.kunlunea.com
