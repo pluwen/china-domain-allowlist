@@ -86,6 +86,7 @@
 *.toutiao.com
 *.talkingdata.com
 *.xiami.com
+*.github.com
 
 ; 阿里云 CDN
 *.kunlunea.com
