@@ -55,7 +55,6 @@
 *.pexels.com
 *.pluwen.com
 *.processon.com
-*.qiniuts.com
 *.qiuziti.com
 *.qq.com
 *.sc115.com
@@ -136,10 +135,11 @@
 *.yunjiasu-cdn.net
 
 ; 七牛
-*.qiniudn.com
-*.qbox.me
 *.clouddn.com
+*.qbox.me
+*.qiniudn.com
 *.qiniudns.com
+*.qiniuts.com
 
 #又拍云
 *.aicdn.com
