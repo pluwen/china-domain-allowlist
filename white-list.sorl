@@ -40,6 +40,7 @@
 *.doyoudo.com
 *.ele.me
 *.etao.com
+*.ewei.com
 *.fir.im
 *.github.com
 *.guokr.com
@@ -110,6 +111,7 @@
 *.yuque.com
 *.zhaopin.com
 *.zhihu.com
+*.zhimg.com
 
 ; 阿里云 CDN
 *.kunlunea.com
