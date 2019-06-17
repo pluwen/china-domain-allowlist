@@ -3,7 +3,8 @@
 ; Date: 2018/7/18
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-10.1.7.237
+; 药监局网站
+202.96.26.102
 
 *.0daydown.com
 *.163.com
