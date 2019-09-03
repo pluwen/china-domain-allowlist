@@ -17,4 +17,4 @@ https://git.io/pluwen-white-list
 
 ## 联系我
 
-* 作者: [Pluwen](https://twitter.com/pluwen)
+* 作者：[Pluwen](https://twitter.com/pluwen)
