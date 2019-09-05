@@ -166,6 +166,10 @@
 *.zhongguose.com
 
 ; 阿里云 CDN
+*.alikunlun.net
+*.alikunlun.com
+*.alicdn.com
+*.aliyuncs.com
 *.kunlunea.com
 *.kunlunso.com
 *.kunlunwe.com
@@ -186,9 +190,6 @@
 *.kunlunsc.com
 *.kunlunsa.com
 *.kunlunca.com
-*.alikunlun.net
-*.alikunlun.com
-*.alicdn.com
 
 ; 腾讯 CDN
 *.qcloud.com
