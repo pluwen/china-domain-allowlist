@@ -4,6 +4,7 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 127.0.0.1
+10.*.*.*
 
 ; 药监局网站
 202.96.26.102
