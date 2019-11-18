@@ -3,11 +3,32 @@
 ; Date: 2018/7/18
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-127.0.0.1
+; IP地址的
 10.*.*.*
+127.*.*.*
+172.16.*.*
+172.17.*.*
+172.18.*.*
+172.19.*.*
+172.20.*.*
+172.21.*.*
+172.22.*.*
+172.23.*.*
+172.24.*.*
+172.25.*.*
+172.26.*.*
+172.27.*.*
+172.28.*.*
+172.29.*.*
+172.30.*.*
+172.31.*.*
+192.168.*.*
 
 ; 药监局网站
 202.96.26.102
+
+; cn域名都不走代理
+*.cn
 
 *.0daydown.com
 *.126.com
@@ -53,7 +74,6 @@
 *.chainnews.com
 *.chinaz.com
 *.chongdiantou.com
-*.cn
 *.cnbeta.com
 *.cnzz.com
 *.coloros.com
