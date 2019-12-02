@@ -294,3 +294,6 @@
 
 ; bilibili
 *.acgvideo.com
+
+; gitee 码云
+*.gitee.com
