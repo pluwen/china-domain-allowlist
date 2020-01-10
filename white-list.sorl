@@ -267,6 +267,7 @@
 *.bdstatic.com
 *.baiduyundns.net
 *.baiduyundns.com
+*.baidupcs.com
 
 ; 百度云加速
 *.yunjiasu-cdn.net
