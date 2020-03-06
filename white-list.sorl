@@ -62,6 +62,7 @@
 *.beisen.com
 *.bible.com
 *.bilibili.*
+*.bilivideo.com
 *.bing.com
 *.bitbucket.org
 *.bluedoc.io
@@ -127,6 +128,7 @@
 *.jianshuapi.com
 *.jikipedia.com
 *.kf5.com
+*.ksyungslb.com
 *.kuaidi100.com
 *.kuaishou.com
 *.kugou.com
@@ -301,6 +303,7 @@
 
 ; bilibili
 *.acgvideo.com
+*.xycdn.com
 
 ; gitee 码云
 *.gitee.com
