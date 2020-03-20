@@ -88,6 +88,7 @@
 *.dingtalk.com
 *.dingtalkapps.com
 *.dji.com
+*.docer.com
 *.douban.*
 *.doubanio.com
 *.douyin.com
@@ -98,6 +99,8 @@
 *.etao.com
 *.ewei.com
 *.feng.com
+*.figmachina.com
+*.figmacn.com
 *.fir.im
 *.fliggy.com
 *.foundertype.com
@@ -164,6 +167,7 @@
 *.outlook.com
 *.panda.tv
 *.panduoduo.net
+*.pc6.com
 *.pexels.com
 *.pgyer.com
 *.piaoquantv.com
@@ -236,30 +240,30 @@
 *.zhongguose.com
 
 ; 阿里云 CDN
-*.alikunlun.net
-*.alikunlun.com
 *.alicdn.com
+*.alikunlun.com
+*.alikunlun.net
 *.aliyuncs.com
-*.kunlunea.com
-*.kunlunso.com
-*.kunlunwe.com
-*.kunlunno.com
 *.kunlunaq.com
-*.kunlunpi.com
-*.kunlunra.com
+*.kunlunar.com
+*.kunlunca.com
+*.kunluncan.com
+*.kunlunea.com
+*.kunlungem.com
 *.kunlungr.com
 *.kunlunhuf.com
-*.kunlunsl.com
-*.kunlunar.com
-*.kunlunta.com
-*.kunlungem.com
-*.kunluncan.com
 *.kunlunle.com
-*.kunlunvi.com
 *.kunlunli.com
-*.kunlunsc.com
+*.kunlunno.com
+*.kunlunpi.com
+*.kunlunra.com
 *.kunlunsa.com
-*.kunlunca.com
+*.kunlunsc.com
+*.kunlunsl.com
+*.kunlunso.com
+*.kunlunta.com
+*.kunlunvi.com
+*.kunlunwe.com
 
 ; 腾讯 CDN
 *.cdntip.com
@@ -269,15 +273,18 @@
 *.tcdn.qq.com
 
 ; 百度云 CDN
-*.bdydns.net
-*.bcedns.net
+*.baidupcs.com
+*.baiduyundns.cn
+*.baiduyundns.com
+*.baiduyundns.net
+*.bcedns.cn
 *.bcedns.com
-*.bdydns.com
+*.bcedns.net
 *.bdimg.com
 *.bdstatic.com
-*.baiduyundns.net
-*.baiduyundns.com
-*.baidupcs.com
+*.bdydns.cn
+*.bdydns.com
+*.bdydns.net
 
 ; 百度云加速
 *.yunjiasu-cdn.net
@@ -298,6 +305,8 @@
 
 ; 360
 *.qhimg.com
+*.dnspao.com
+*.360wzb.cn
 
 ; youku
 *.ykimg.com
