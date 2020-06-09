@@ -36,6 +36,7 @@
 *.163.com
 *.178.com
 *.199it.com
+*.360doc.com
 *.36kr.com
 *.39.net
 *.56.com
@@ -98,6 +99,7 @@
 *.douyutv.com
 *.doyoudo.com
 *.draw.io
+*.drivergenius.com
 *.duoshao.app
 *.ele.me
 *.etao.com
@@ -118,6 +120,7 @@
 *.hdb.com
 *.houxu.app
 *.huaban.com
+*.huawei.com
 *.iciba.com
 *.icloud.com
 *.ifanr.com
@@ -248,6 +251,8 @@
 *.zhongguose.com
 
 ; 阿里云 CDN
+*.aliapp.org
+*.alibabacloud.com
 *.alicdn.com
 *.alikunlun.com
 *.alikunlun.net
