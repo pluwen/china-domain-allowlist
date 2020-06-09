@@ -15,6 +15,6 @@ https://git.io/pluwen-white-list
 * 点击「立即更新情景模式」
 * 点击左上角「界面」，将初始情景模式改为「自动切换」
 
-## 联系我
+## 作者
 
-* 作者：[Pluwen](https://twitter.com/pluwen)
+* [Pluwen](https://twitter.com/pluwen)

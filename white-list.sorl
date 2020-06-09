@@ -56,7 +56,6 @@
 *.antfin.com
 *.appinn.com
 *.appinn.net
-*.apple.com
 *.babybus.com
 *.baidu.com
 *.baiduwp.com
@@ -88,7 +87,6 @@
 *.dangdang.com
 *.ddrk.me
 *.didiglobal.com
-*.digitalocean.com
 *.dingtalk.com
 *.dingtalkapps.com
 *.dji.com
@@ -136,6 +134,7 @@
 *.jianshu.*
 *.jianshuapi.com
 *.jikipedia.com
+*.juejin.im
 *.kf5.com
 *.ksyungslb.com
 *.kuaidi100.com
@@ -147,7 +146,6 @@
 *.leancloud.app
 *.liantu.com
 *.linkedin.com
-*.linode.com
 *.lizhi.fm
 *.lkkdesign.com
 *.lvmama.com
@@ -224,7 +222,6 @@
 *.undraw.co
 *.visualhunt.com
 *.vmall.com
-*.vultr.com
 *.wallhaven.cc
 *.wandoujia.com
 *.weather.com
