@@ -325,6 +325,7 @@
 ; bilibili
 *.acgvideo.com
 *.xycdn.com
+*.00cdn.com
 
 ; gitee 码云
 *.gitee.com
