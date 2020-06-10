@@ -64,8 +64,6 @@
 *.bbtree.com
 *.beisen.com
 *.bible.com
-*.bilibili.*
-*.bilivideo.com
 *.bing.com
 *.bitbucket.org
 *.bluedoc.io
@@ -325,9 +323,12 @@
 *.ykimg.com
 
 ; bilibili
-*.acgvideo.com
-*.xycdn.com
 *.00cdn.com
+*.acgvideo.com
+*.bilibili.com
+*.bilivideo.com
+*.hdslb.com
+*.xycdn.com
 
 ; gitee 码云
 *.gitee.com
