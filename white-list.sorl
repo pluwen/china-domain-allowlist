@@ -54,6 +54,7 @@
 *.acgvideo.com
 *.aicdn.com
 *.air-matters.com
+*.airbnb.com
 *.aixifan.com
 *.akadns.net
 *.akamaized.net
@@ -70,6 +71,7 @@
 *.aliued.com
 *.aliyun.com
 *.aliyuncs.com
+*.allhistory.com
 *.amap.com
 *.ancda.com
 *.ant.design
@@ -79,6 +81,7 @@
 *.appinn.net
 *.apple.com
 *.autonavi.com
+*.axshare.com
 *.babybus.com
 *.baidu.com
 *.baidupcs.com
@@ -86,6 +89,7 @@
 *.baiduyundns.cn
 *.baiduyundns.com
 *.baiduyundns.net
+*.baimiaoapp.com
 *.baomihua.com
 *.bbtree.com
 *.bcedns.cn
@@ -134,6 +138,7 @@
 *.dingtalk.com
 *.dingtalkapps.com
 *.dji.com
+*.dns.com
 *.dnspao.com
 *.docer.com
 *.docschina.org
@@ -147,11 +152,15 @@
 *.drivergenius.com
 *.duokan.com
 *.duoshao.app
+*.duoshao.net
 *.easou.com
+*.eastmoney.com
 *.ele.me
+*.epicgames.com
 *.etao.com
 *.ewei.com
 *.feng.com
+*.figma.cool
 *.figmachina.com
 *.figmacn.com
 *.fir.im
@@ -182,6 +191,7 @@
 *.ifanr.com
 *.ifeng.com
 *.ifengimg.com
+*.ifigma.design
 *.iguoguo.net
 *.iina.io
 *.infoq.com
@@ -227,6 +237,7 @@
 *.le.com
 *.leancloud.app
 *.lecloud.com
+*.leetcode-cn.com
 *.lemicp.com
 *.liantu.com
 *.linkedin.com
@@ -237,6 +248,7 @@
 *.ly.com
 *.macrr.com
 *.magi.com
+*.meitu.com
 *.meituan.com
 *.meituan.net
 *.meizu.com
@@ -250,6 +262,7 @@
 *.miui.com
 *.miwifi.com
 *.mob.com
+*.mp4ba.cc
 *.mu6.me
 *.myqcloud.com
 *.mzstatic.com
@@ -298,10 +311,12 @@
 *.rr.tv
 *.ruguoapp.com
 *.sc115.com
+*.sdbeta.com
 *.segmentfault.com
 *.shimo.im
 *.sina.com
 *.sinaapp.com
+*.sketchchina.com
 *.slack.com
 *.smartisan.com
 *.smzdm.com
@@ -321,6 +336,7 @@
 *.tcdn.qq.com
 *.tencent.com
 *.tenpay.com
+*.test-ipv6.com
 *.thetype.com
 *.tianyancha.com
 *.tinyservices.net
