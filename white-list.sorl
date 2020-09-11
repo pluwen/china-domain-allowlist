@@ -72,6 +72,7 @@
 *.aliued.com
 *.aliyun.com
 *.aliyuncs.com
+*.aliyundrive.com
 *.allhistory.com
 *.amap.com
 *.ancda.com
@@ -151,6 +152,7 @@
 *.doyoudo.com
 *.draw.io
 *.drivergenius.com
+*.drugcn.org
 *.duokan.com
 *.duoshao.app
 *.duoshao.net
@@ -206,6 +208,7 @@
 *.jianshu.com
 *.jianshuapi.com
 *.jikipedia.com
+*.jsdelivr.net
 *.juejin.im
 *.kf5.com
 *.knewone.com
@@ -270,6 +273,7 @@
 *.netease.com
 *.nipic.com
 *.nobook.com
+*.nocode.com
 *.now.sh
 *.oneplus.com
 *.oppo.com
@@ -307,14 +311,17 @@
 *.qiyipic.com
 *.qq.com
 *.qqurl.com
+*.quanmingjiexi.com
 *.qyer.com
 *.rarbg.to
+*.rework.tools
 *.rr.tv
 *.ruguoapp.com
 *.sc115.com
 *.sdbeta.com
 *.segmentfault.com
 *.shimo.im
+*.sigujiexi.com
 *.sina.com
 *.sinaapp.com
 *.sketchchina.com
@@ -358,6 +365,7 @@
 *.upaiyun.com
 *.upyun.com
 *.v2ex.com
+*.vercel.com
 *.veryzhun.com
 *.visualhunt.com
 *.vmall.com
@@ -372,6 +380,7 @@
 *.xiami.net
 *.xiaomi.com
 *.xiaomicp.com
+*.xiaomiyoupin.com
 *.xiaotu.io
 *.ximalaya.com
 *.xmcdn.com
@@ -389,9 +398,11 @@
 *.yunjiasu-cdn.net
 *.yuque.com
 *.zanmeishi.com
+*.zdic.net
 *.zealer.com
 *.zhangxinxu.com
 *.zhaopin.com
 *.zhihu.com
 *.zhimg.com
 *.zhongguose.com
+*.zku.net
