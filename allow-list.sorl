@@ -87,6 +87,7 @@
 *.ant.design
 *.antfin-inc.com
 *.antfin.com
+*.anyway.fm
 *.appclub.in
 *.appinn.com
 *.appinn.net
@@ -213,6 +214,7 @@
 *.hongxiu.com
 *.houxu.app
 *.huaban.com
+*.huabanimg.com
 *.huawei.com
 *.hxcdn.net
 *.ibucm.com
@@ -303,8 +305,6 @@
 *.mi.com
 *.miaopai.com
 *.microbit.org
-*.microsoft.com
-*.microsoftonline.com
 *.minapp.com
 *.miui.com
 *.miwifi.com
