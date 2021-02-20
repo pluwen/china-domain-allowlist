@@ -33,6 +33,77 @@
 ; cn域名都不走代理
 *.cn
 
+;基于 git:85d609c51d0725bb12ea8106c313c0c27be9ff0a 版本增加
+;以下是新增的域名
+;------------------------------------------
+; 喵特网
+*.nyato.com
+
+; 神舟电脑官网
+*.hasee.com
+
+; 知网
+*.cnki.net
+
+; 一个停放域名的网站
+*.dopa.com
+
+; 飞客茶馆论坛
+*.flyertea.com
+
+; 一个查相关公司对应工资的网站
+*.kanzhun.com
+
+; 拉钩网-招聘网站
+*.lagou.com
+
+; 败家论坛
+*.chiphell.com
+
+; chiphell.com 所使用的验证码提供商网站
+*.vaptcha.net
+
+; 游戏物品买卖
+*.5173.com
+*.5173cdn.com
+
+; 雷柏键盘鼠标官网
+*.rapoo.com
+
+; 中通速递
+*.zto.com
+
+; 二手车
+*.renrenche.com
+*.guazi.com
+
+; 火车头采集器官网
+*.locoy.com
+
+; 随手记-记账网站
+*.sui.com
+
+; 挖财-记账网站
+*.wacai.com
+
+; 斗鱼
+*.douyu.com
+*.douyucdn.cn
+
+; 一个前端开源库镜像
+*.staticfile.org
+
+; 异次元软件世界
+*.iplaysoft.com
+
+; 阿里妈妈
+*.tanx.com
+
+; 购物党比价
+*.gwdang.com
+
+;------------------------------------------
+
 *.00cdn.com
 *.0daydown.com
 *.126.com
