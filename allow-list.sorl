@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2020/10/23
+; Update Date: 2021/02/20
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -33,77 +33,6 @@
 ; cn域名都不走代理
 *.cn
 
-;基于 git:85d609c51d0725bb12ea8106c313c0c27be9ff0a 版本增加
-;以下是新增的域名
-;------------------------------------------
-; 喵特网
-*.nyato.com
-
-; 神舟电脑官网
-*.hasee.com
-
-; 知网
-*.cnki.net
-
-; 一个停放域名的网站
-*.dopa.com
-
-; 飞客茶馆论坛
-*.flyertea.com
-
-; 一个查相关公司对应工资的网站
-*.kanzhun.com
-
-; 拉钩网-招聘网站
-*.lagou.com
-
-; 败家论坛
-*.chiphell.com
-
-; chiphell.com 所使用的验证码提供商网站
-*.vaptcha.net
-
-; 游戏物品买卖
-*.5173.com
-*.5173cdn.com
-
-; 雷柏键盘鼠标官网
-*.rapoo.com
-
-; 中通速递
-*.zto.com
-
-; 二手车
-*.renrenche.com
-*.guazi.com
-
-; 火车头采集器官网
-*.locoy.com
-
-; 随手记-记账网站
-*.sui.com
-
-; 挖财-记账网站
-*.wacai.com
-
-; 斗鱼
-*.douyu.com
-*.douyucdn.cn
-
-; 一个前端开源库镜像
-*.staticfile.org
-
-; 异次元软件世界
-*.iplaysoft.com
-
-; 阿里妈妈
-*.tanx.com
-
-; 购物党比价
-*.gwdang.com
-
-;------------------------------------------
-
 *.00cdn.com
 *.0daydown.com
 *.126.com
@@ -120,6 +49,8 @@
 *.360wzb.cn
 *.36kr.com
 *.39.net
+*.5173.com
+*.5173cdn.com
 *.56.com
 *.58.com
 *.58pic.com
@@ -205,6 +136,7 @@
 *.cdntip.com
 *.chainnews.com
 *.chinaz.com
+*.chiphell.com
 *.chongdiantou.com
 *.chunyuanfood.com
 *.ciligod.com
@@ -214,6 +146,7 @@
 *.cmbchina.com
 *.cnbeta.com
 *.cnbetacdn.com
+*.cnki.net
 *.cnsageo.com
 *.cnzz.com
 *.code4app.com
@@ -238,10 +171,13 @@
 *.dnspao.com
 *.docer.com
 *.docschina.org
+*.dopa.com
 *.douban.*
 *.douban.com
 *.doubanio.com
 *.douyin.com
+*.douyu.com
+*.douyucdn.cn
 *.douyutv.com
 *.doyoudo.com
 *.draw.io
@@ -266,6 +202,7 @@
 *.fjgdwl.com
 *.fjhxbank.com
 *.fliggy.com
+*.flyertea.com
 *.fontke.com
 *.foundertype.com
 *.frdic.com
@@ -279,11 +216,14 @@
 *.gratisography.com
 *.growingio.com
 *.gtimg.com
+*.guazi.com
 *.guokr.com
+*.gwdang.com
 *.haitum.com
 *.hao123.com
 *.haosou.com
 *.happyeo.com
+*.hasee.com
 *.hdb.com
 *.hdslb.com
 *.homestyler.com
@@ -307,6 +247,7 @@
 *.infoq.com
 *.intercomcdn.com
 *.ipip.net
+*.iplaysoft.com
 *.iqiyi.com
 *.isharepc.com
 *.ithome.com
@@ -323,6 +264,7 @@
 *.jsdelivr.net
 *.juejin.im
 *.juji.tv
+*.kanzhun.com
 *.kele5240.com
 *.kf5.com
 *.knewone.com
@@ -350,6 +292,7 @@
 *.kunlunta.com
 *.kunlunvi.com
 *.kunlunwe.com
+*.lagou.com
 *.lanhuapp.com
 *.lanzous.com
 *.le.com
@@ -362,6 +305,7 @@
 *.linkedin.com
 *.lizhi.fm
 *.lkkdesign.com
+*.locoy.com
 *.luoo.net
 *.lvmama.com
 *.ly.com
@@ -397,6 +341,7 @@
 *.nobook.com
 *.nocode.com
 *.now.sh
+*.nyato.com
 *.okii.com
 *.onekbit.com
 *.oneplus.com
@@ -439,7 +384,9 @@
 *.qqurl.com
 *.quanmingjiexi.com
 *.qyer.com
+*.rapoo.com
 *.rarbg.to
+*.renrenche.com
 *.rework.tools
 *.rr.tv
 *.ruanmei.com
@@ -467,11 +414,14 @@
 *.speedtest.net
 *.springleaf-biomax.com
 *.sspai.com
+*.staticfile.org
+*.sui.com
 *.suning.com
 *.surface.wiki
 *.taichi.graphics
 *.taihe.com
 *.talkingdata.com
+*.tanx.com
 *.taobao.com
 *.taobaocdn.com
 *.tcdn.qq.com
@@ -502,9 +452,11 @@
 *.upaiyun.com
 *.upyun.com
 *.v2ex.com
+*.vaptcha.net
 *.veryzhun.com
 *.visualhunt.com
 *.vmall.com
+*.wacai.com
 *.walklake.com
 *.wallhaven.cc
 *.wandoujia.com
@@ -559,3 +511,4 @@
 *.zhiye.com
 *.zhongguose.com
 *.zku.net
+*.zto.com
