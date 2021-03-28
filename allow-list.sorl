@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2021/03/18
+; Update Date: 2021/03/28
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -82,7 +82,6 @@
 *.aliued.com
 *.aliyun.com
 *.aliyuncs.com
-*.aliyundrive.com
 *.aliyundrive.com
 *.allhistory.com
 *.alltuu.com
@@ -166,9 +165,9 @@
 *.damengxiang.me
 *.dangdang.com
 *.daynote.app
+*.ddrk.me
 *.deepin.com
 *.deepinos.org
-*.ddrk.me
 *.dgtle.com
 *.dianping.com
 *.didiglobal.com
