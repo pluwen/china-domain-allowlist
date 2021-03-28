@@ -83,6 +83,7 @@
 *.aliyun.com
 *.aliyuncs.com
 *.aliyundrive.com
+*.aliyundrive.com
 *.allhistory.com
 *.alltuu.com
 *.amap.com
@@ -97,12 +98,15 @@
 *.appinn.net
 *.apple.com
 *.appletuan.com
+*.archlinux.org
+*.archlinuxcn.org
 *.autonavi.com
 *.axshare.com
 *.axure.org
 *.axureux.com
 *.babybus.com
 *.baidu.com
+*.baidupan.com
 *.baidupcs.com
 *.baiduwp.com
 *.baiduyundns.cn
@@ -137,6 +141,7 @@
 *.cdnjs.com
 *.cdntip.com
 *.chainnews.com
+*.chinauos.com
 *.chinaz.com
 *.chiphell.com
 *.chongdiantou.com
@@ -161,6 +166,8 @@
 *.damengxiang.me
 *.dangdang.com
 *.daynote.app
+*.deepin.com
+*.deepinos.org
 *.ddrk.me
 *.dgtle.com
 *.dianping.com
@@ -200,6 +207,7 @@
 *.figmachina.com
 *.figmacn.com
 *.fir.im
+*.firefox.com
 *.fjgdwl.com
 *.fjhxbank.com
 *.fliggy.com
@@ -213,6 +221,7 @@
 *.fzzfgjj.com
 *.g-cores.com
 *.gitee.com
+*.gitee.io
 *.godic.net
 *.googletagmanager.com
 *.gratisography.com
@@ -257,6 +266,7 @@
 *.itjuzi.com
 *.jd.com
 *.jdkindle.com
+*.jianguoyun.com
 *.jianshu.*
 *.jianshu.com
 *.jianshuapi.com
@@ -335,6 +345,7 @@
 *.miwifi.com
 *.mmstat.com
 *.mob.com
+*.mozilla.org
 *.mp4ba.cc
 *.mu6.me
 *.myapp.com
@@ -400,6 +411,7 @@
 *.segmentfault.com
 *.shejijia.com
 *.shimo.im
+*.shssp.org
 *.shyywz.com
 *.sigujiexi.com
 *.sina.com
@@ -422,6 +434,7 @@
 *.springleaf-biomax.com
 *.sspai.com
 *.staticfile.org
+*.steampowered.com
 *.sui.com
 *.suning.com
 *.surface.wiki
@@ -447,6 +460,7 @@
 *.tudou.com
 *.tuniu.com
 *.typeisbeautiful.com
+*.ubuntukylin.com
 *.ucweb.com
 *.ucxinwen.com
 *.uedna.com
@@ -476,7 +490,9 @@
 *.weixinbridge.com
 *.weiyun.com
 *.westlakemuseum.com
+*.wolai.com
 *.woshipm.com
+*.wps.com
 *.wulihub.com
 *.xbongbong.com
 *.xdccpro.com
