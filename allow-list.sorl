@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2021/03/28
+; Update Date: 2021/05/19
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -35,6 +35,7 @@
 
 *.00cdn.com
 *.0daydown.com
+*.115.com
 *.126.com
 *.126.net
 *.127.net
@@ -123,6 +124,7 @@
 *.bdydns.com
 *.bdydns.net
 *.beisen.com
+*.bejson.com
 *.bible.com
 *.bilibili.com
 *.bilivideo.com
@@ -193,6 +195,7 @@
 *.duoshao.net
 *.easou.com
 *.eastmoney.com
+*.eggjs.org
 *.ele.me
 *.epicgames.com
 *.epubw.com
