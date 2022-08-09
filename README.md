@@ -9,6 +9,7 @@
 * 点击「新增情景模式」-「自动切换」，名字自己设置
 * 默认情景模式设置为刚才设置的代理服务器
 * 点击「添加规则列表」，在规则列表网址，输入
+
 ``
 https://github.com/pluwen/china-domain-allowlist/raw/main/allow-list.sorl
 ``
