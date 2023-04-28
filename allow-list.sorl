@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2022/08/09
+; Update Date: 2023/04/28
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -22,6 +22,7 @@
 *.114la.com
 *.114yygh.com
 *.115.com
+*.123pan.com
 *.126.com
 *.126.net
 *.127.net
@@ -196,7 +197,6 @@
 *.biligame.com
 *.biligame.net
 *.bilivideo.com
-*.bing.com
 *.bitbucket.org
 *.blackyau.cc
 *.blizzard.com
@@ -350,6 +350,7 @@
 *.easou.com
 *.eastmoney.com
 *.ecitic.com
+*.eebbk.com
 *.eeboard.com
 *.eggjs.org
 *.ele.me
@@ -366,6 +367,7 @@
 *.fang.com
 *.fatetypo.xyz
 *.feiliao.com
+*.feishucdn.com
 *.feng.com
 *.fengkongcloud.com
 *.fengniao.com
@@ -423,6 +425,7 @@
 *.hao123.com
 *.haosou.com
 *.happyeo.com
+*.harmonyos.com
 *.hasee.com
 *.hdb.com
 *.hdbits.org
@@ -685,6 +688,7 @@
 *.miaopai.com
 *.microbit.org
 *.microsoft.com
+*.microsoftpersonalcontent.com
 *.midifan.com
 *.mikanani.me
 *.minapp.com
@@ -701,6 +705,7 @@
 *.moe123.net
 *.moegirl.org
 *.moetransit.com
+*.mojidoc.com
 *.moke.com
 *.mokeedev.com
 *.momentcdn.com
@@ -749,6 +754,8 @@
 *.nyato.com
 *.obsapp.com
 *.oekaki.so
+*.office.com
+*.office.net
 *.office365.com
 *.okii.com
 *.omico.me
@@ -880,6 +887,7 @@
 *.servicewechat.com
 *.sf-express.com
 *.shejijia.com
+*.shidianguji.com
 *.shikezhi.com
 *.shimo.im
 *.shiyanlou.com
@@ -970,6 +978,7 @@
 *.tjupt.org
 *.tmall.com
 *.tmall.hk
+*.todesk.com
 *.tool.lu
 *.tophub.today
 *.totheglory.im
@@ -1090,6 +1099,7 @@
 *.xitu.io
 *.xiya.vip
 *.xldns.net
+*.xmac.app
 *.xmcdn.com
 *.xnpic.com
 *.xpcha.com
