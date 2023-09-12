@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2023/08/18
+; Update Date: 2023/09/12
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -939,7 +939,6 @@
 *.sui.com
 *.suning.com
 *.surface.wiki
-*.svga.io
 *.sznews.com
 *.t.tt
 *.taichi.graphics
