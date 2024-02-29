@@ -108,6 +108,7 @@
 *.akarin.top
 *.aldwx.com
 *.aliapp.org
+*.alibaba-inc.com
 *.alibaba.com
 *.alibabacloud.com
 *.alibabausercontent.com
@@ -123,6 +124,7 @@
 *.aliyun.com
 *.aliyuncs.com
 *.aliyundrive.com
+*.aliyunpds.com
 *.allhistory.com
 *.alltuu.com
 *.amap.com
@@ -392,6 +394,7 @@
 *.flyertea.com
 *.fontke.com
 *.foundertype.com
+*.foxirj.com
 *.frdic.com
 *.freebuf.com
 *.freeziti.com
@@ -739,6 +742,7 @@
 *.myqcloud.com
 *.myzaker.com
 *.mzstatic.com
+*.naixue.com
 *.nanyangpt.com
 *.nature.com
 *.ncore.cc
@@ -778,6 +782,7 @@
 *.oracle.com
 *.oray.com
 *.oray.net
+*.orayimg.com
 *.oschina.io
 *.oschina.net
 *.ourbits.club
@@ -785,13 +790,11 @@
 *.ourdvsss.com
 *.oursketch.com
 *.outlook.com
+*.pag.art
 *.paipai.com
 *.panda.tv
 *.panduoduo.net
 *.passthepopcorn.me
-*.paypal.com
-*.paypal.me
-*.paypalobjects.com
 *.pc6.com
 *.pcbeta.com
 *.pdcicons.ml
@@ -852,6 +855,7 @@
 *.qqurl.com
 *.qqzzz.net
 *.quanmingjiexi.com
+*.qudong.com
 *.qunar.com
 *.qweather.com
 *.qyer.com
@@ -859,6 +863,7 @@
 *.rapoo.com
 *.rarbg.to
 *.raychase.net
+*.realme.com
 *.redacted.ch
 *.renren.com
 *.renrenche.com
@@ -901,6 +906,7 @@
 *.shimo.im
 *.shiyanlou.com
 *.shssp.org
+*.shxibank.com
 *.shyywz.com
 *.sigmaaldrich.com
 *.sigujiexi.com
@@ -931,6 +937,7 @@
 *.songshuhui.net
 *.soso.com
 *.soufun.com
+*.sourcegcdn.com
 *.speedtest.net
 *.springer.com
 *.springerlink.com
@@ -955,6 +962,8 @@
 *.taihe.com
 *.takungpao.com
 *.talkingdata.com
+*.tangdou.com
+*.tangdouddn.com
 *.tanx.com
 *.taobao.com
 *.taobao.org
@@ -994,6 +1003,7 @@
 *.toushibao.com
 *.toutiao.com
 *.toutiao.io
+*.toutiaoimg.com
 *.tower.im
 *.trontv.com
 *.truevue.org
@@ -1075,6 +1085,7 @@
 *.windows.com
 *.windowsupdate.com
 *.wisenjoy.com
+*.wjx.top
 *.wodemo.com
 *.wolai.com
 *.woozooo.com
@@ -1090,6 +1101,8 @@
 *.xiachufang.com
 *.xiami.com
 *.xiami.net
+*.xiaoe-tech.com
+*.xiaoe-tools.com
 *.xiaohongshu.com
 *.xiaoka.tv
 *.xiaomark.com
@@ -1150,6 +1163,7 @@
 *.yuwantech.com
 *.yxt.com
 *.yy.com
+*.z-bank.com
 *.zaih.com
 *.zanata.org
 *.zanmeishi.com
@@ -1172,6 +1186,7 @@
 *.zhongguose.com
 *.zhuihd.com
 *.zhujike.com
+*.zijieapi.com
 *.zimuzu.tv
 *.zku.net
 *.znyj365.com
