@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/06/19
+; Update Date: 2024/07/16
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -119,6 +119,7 @@
 *.alikunlun.com
 *.alikunlun.net
 *.alimama.com
+*.alipan.com
 *.alipay.com
 *.alipayobjects.com
 *.alisports.com
