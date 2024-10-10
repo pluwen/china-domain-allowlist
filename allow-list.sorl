@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/10/08
+; Update Date: 2024/10/10
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -206,6 +206,7 @@
 *.biliapi.net
 *.bilibili.com
 *.bilibili.tv
+*.bilicomic.com
 *.biligame.com
 *.biligame.net
 *.bilivideo.com
