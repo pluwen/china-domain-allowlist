@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/10/11
+; Update Date: 2024/10/14
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -848,6 +848,7 @@
 *.qhimg.com
 *.qhmsg.com
 *.qhres.com
+*.qianxin.com
 *.qichacha.com
 *.qidian.com
 *.qihucdn.com
