@@ -18,3 +18,7 @@ https://github.com/pluwen/china-domain-allowlist/raw/main/allow-list.sorl
 
 ## 作者
 * [Pluwen](https://twitter.com/pluwen)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/china-domain-allowlist&type=Date)](https://star-history.com/#pluwen/china-domain-allowlist&Date)
