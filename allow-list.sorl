@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/10/18
+; Update Date: 2024/10/21
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -395,6 +395,7 @@
 *.fiio.com
 *.fir.im
 *.firefox.com
+*.fj12379.com
 *.fjgdwl.com
 *.fjhxbank.com
 *.fliggy.com
