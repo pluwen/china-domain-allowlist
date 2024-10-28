@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/10/21
+; Update Date: 2024/10/28
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -472,6 +472,7 @@
 *.homestyler.com
 *.hommk.com
 *.hongxiu.com
+*.honor.com
 *.hostbuf.com
 *.hostker.com
 *.hotmail.com
