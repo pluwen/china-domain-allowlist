@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/10/28
+; Update Date: 2024/11/02
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -970,7 +970,6 @@
 *.staticfile.org
 *.steamcn.com
 *.steamcontent.com
-*.steamdb.info
 *.subhd.tv
 *.sui.com
 *.suning.com
