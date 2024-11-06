@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/11/02
+; Update Date: 2024/11/06
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -333,6 +333,7 @@
 *.dmzj.com
 *.dns.com
 *.dnspao.com
+*.doc88.com
 *.docer.com
 *.docin.com
 *.docschina.org
