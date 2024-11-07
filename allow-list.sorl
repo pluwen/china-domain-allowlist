@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/11/06
+; Update Date: 2024/11/07
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -236,6 +236,8 @@
 *.ccb.com
 *.ccgslb.com
 *.ccgslb.net
+*.cckefu.net
+*.cckefu3.com
 *.cctv.com
 *.cctvpic.com
 *.cdn-apple.com
@@ -397,6 +399,7 @@
 *.fir.im
 *.firefox.com
 *.fj12379.com
+*.fjdzyz.com
 *.fjgdwl.com
 *.fjhxbank.com
 *.fliggy.com
