@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/11/08
+; Update Date: 2024/12/01
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -242,7 +242,6 @@
 *.cctvpic.com
 *.cdn-apple.com
 *.cdn.hockeyapp.net
-*.cdn.jsdelivr.net
 *.cdnbee.com
 *.cdndm.com
 *.cdndm5.com
@@ -586,7 +585,6 @@
 *.jqhtml.com
 *.js.design
 *.jsdelivr.com
-*.jsdelivr.net
 *.juejin.im
 *.juji.tv
 *.kaiyanapp.com
