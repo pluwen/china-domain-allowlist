@@ -121,6 +121,7 @@
 *.alibabausercontent.com
 *.alicdn.com
 *.alicloudccp.com
+*.alidns.com
 *.alikunlun.com
 *.alikunlun.net
 *.alimama.com
@@ -345,6 +346,7 @@
 *.docer.com
 *.docin.com
 *.docschina.org
+*.doh.pub
 *.dopa.com
 *.douban.*
 *.douban.com
