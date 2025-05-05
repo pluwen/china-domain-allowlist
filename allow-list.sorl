@@ -1,10 +1,10 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025/04/08
+; Update Date: 2025/05/05
 ; Author: Pluwen
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-; IP 地址段
+; 内网 IP 地址段
 10.*.*.*
 100.64.*.*
 127.*.*.*
@@ -354,6 +354,9 @@
 *.doubanio.com
 *.doubleclick.net
 *.douyin.com
+*.douyincdn.com
+*.douyinliving.com
+*.douyinvod.com
 *.douyu.com
 *.douyutv.com
 *.doyoo.net
@@ -563,6 +566,7 @@
 *.iteye.com
 *.ithome.com
 *.itjuzi.com
+*.ixigua.com
 *.jandan.net
 *.java.com
 *.javaeye.com
