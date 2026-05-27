@@ -14,6 +14,9 @@
 ; cn 域名都不走代理
 *.cn
 
+; *.中国 域名
+*.xn--fiqs8s
+
 ; 其他域名
 *.00cdn.com
 *.0daydown.com
@@ -1243,4 +1246,5 @@
 *.qweather.com
 *.qianwen.com
 *.lingguang.com
+cn.bing.com
 
